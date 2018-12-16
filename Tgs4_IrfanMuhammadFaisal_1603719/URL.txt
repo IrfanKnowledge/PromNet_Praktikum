@@ -1,4 +1,0 @@
-http://localhost/web_service/service/index.php
-
-Nama	: Irfan Muhammad Faisal
-NIM	: 1603719
